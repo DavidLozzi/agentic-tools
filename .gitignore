@@ -1,0 +1,7 @@
+.DS_Store
+.venv/
+.agent-instructions/backups/
+__pycache__/
+*.pyc
+cursor_template/
+.claude/settings.local.json
